@@ -65,6 +65,6 @@ Use Trello to manage the project timeline and tasks. The board will be organized
 To Do: Research, plugin installation, basic structure setup.
 In Progress: Implementing role-based registration, setting up courses, integrating payment gateway.
 Done: Complete pages, testing, presentation prep.
-## Trello Board Link : 
+## Trello Board Link : https://trello.com/b/g2ctu0Vy/lms
 
-## Figma Link : 
+## Figma Link : https://www.figma.com/design/lVgmi91umtSnUDcgOLsCAG/Untitled?node-id=0-1&node-type=canvas&t=3HuRnXdfRDqYX6m2-0
